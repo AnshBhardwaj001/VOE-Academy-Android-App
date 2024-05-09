@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VOE Academy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="mark_read">Mark as Read</string>
+
+    <string name="teacher_details">Our teaching style acts as a catalyst for creating excellence in the education sector and promoting the convergence of knowledge, Information, Technology and Skills. It also provides the requisite know-how and generates a workforce with the right kind of professional, Instincts, Values, Attitude, and expertise.</string>
+    <string name="Refund_and_cancellation_policy">We want you to be satisfied, so all courses purchased on VOE ACADEMY(OPC)PVT. LTD can be refunded within 24 hours of placing the order. The request has to be made at kumaralok7499@gmail.com with your email ID and Phone number along with the details of the course/classes. Orders paid by Credit/Debit Card will be refunded by credit back to the Credit/Debit Card within 5 working days and the refund will reflect in the next statement Orders paid by net banking accounts will be credited back to a bank account. For all other modes of payment, we will send a refund cheque. The cheque will be made in favor of the name as in the "billing name" provided at the time of placing the order.</string>
+    <string name="after_booking_classses"> You will get a call back within 12 hrs from the teacher you booked your classes on the registered mobile number. Teacher will share the details for classes like slot-timing, meeting link (in case of Online classes) and other details</string>
+    <string name="registation_page_heading">Enhance your education journey with us</string>
+    <string name="registation_page_register_heading">Register</string>
+</resources>

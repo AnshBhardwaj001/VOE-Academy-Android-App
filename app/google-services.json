@@ -1,0 +1,145 @@
+{
+  "project_info": {
+    "project_number": "163880717130",
+    "project_id": "voe-academy",
+    "storage_bucket": "voe-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163880717130:android:58f9ede1c8cecb54bf8fb3",
+        "android_client_info": {
+          "package_name": "com.example.voeacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163880717130-3aidfk2m8nk8bglarps6a0hq50isnoum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voeacademy",
+            "certificate_hash": "266d4c3b79dbfc792a0190b33059259098fe5db4"
+          }
+        },
+        {
+          "client_id": "163880717130-dt29eq513c48tnh8s4t7cmlsiv9s0b76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voeacademy",
+            "certificate_hash": "45e30bbaeda3261102724e9060a9324a755cd4a8"
+          }
+        },
+        {
+          "client_id": "163880717130-oq6gn3ram8khu867ni3fi6b4boas6fsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voeacademy",
+            "certificate_hash": "c6f7e4e219571fc7c13b50497d8a83bbaa05d373"
+          }
+        },
+        {
+          "client_id": "163880717130-pltu3rg4re5m8jua8hcfudsqmu88prhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voeacademy",
+            "certificate_hash": "c0276cee10b255e0dd8502ac9b34a7ae03686f8c"
+          }
+        },
+        {
+          "client_id": "163880717130-sjmqv5bh974f3ovod259vti7jdtmb8s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voeacademy",
+            "certificate_hash": "4197c00a86132f45d2be40d7435c7c0685b1ee48"
+          }
+        },
+        {
+          "client_id": "163880717130-tqelch18tmnoh27fra5qbtim7u1hf6cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBViQlmR_ApJnGK3Qx_QU6k41Z-wzAEs28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163880717130-tqelch18tmnoh27fra5qbtim7u1hf6cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163880717130:android:33c85756e45587d7bf8fb3",
+        "android_client_info": {
+          "package_name": "com.example.voeacademyadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163880717130-tqelch18tmnoh27fra5qbtim7u1hf6cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBViQlmR_ApJnGK3Qx_QU6k41Z-wzAEs28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163880717130-tqelch18tmnoh27fra5qbtim7u1hf6cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163880717130:android:8c611b0719815418bf8fb3",
+        "android_client_info": {
+          "package_name": "com.voeacademy.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163880717130-ph16bhfon7kg4cb1f3u5o53fkfq6urk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voeacademy.application",
+            "certificate_hash": "c6f7e4e219571fc7c13b50497d8a83bbaa05d373"
+          }
+        },
+        {
+          "client_id": "163880717130-tqelch18tmnoh27fra5qbtim7u1hf6cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBViQlmR_ApJnGK3Qx_QU6k41Z-wzAEs28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163880717130-tqelch18tmnoh27fra5qbtim7u1hf6cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

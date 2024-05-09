@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+
+
+    android:background="@color/voe_color_secondary"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/voe_logo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+
+        android:src="@drawable/voe_logo"></ImageView>
+
+    <TextView
+        android:id="@+id/voe_academy_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/voe_logo"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20px"
+
+
+
+        android:fontFamily="@font/poppins_black"
+
+
+        android:text="VOE Academy"
+
+        android:textColor="@color/voe_color"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/voe_academy_quote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/voe_academy_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20px"
+        android:text="Lighting the Path of Knowledge"
+        android:fontFamily="@font/poppins"
+
+        android:textSize="12sp" />
+
+
+    <TextView
+        android:id="@+id/voe_academy_quote_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/voe_academy_quote"
+        android:layout_centerHorizontal="true"
+        android:text="Education - Character - Life"
+        android:fontFamily="@font/poppins"
+
+
+        android:textSize="12sp" />
+
+
+    <ImageView
+
+        android:layout_width="wrap_content"
+        android:layout_height="320dp"
+        android:layout_above="@+id/terms_and_conditions"
+        android:layout_below="@+id/voe_academy_quote_2"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="85dp"
+        android:src="@drawable/voe_academy_sign_in_vector"></ImageView>
+
+    <TextView
+        android:id="@+id/terms_and_conditions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/google_login_btn"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="45dp"
+        android:layout_marginTop="-53dp"
+        android:layout_marginBottom="0px"
+        android:text="By clicking Continue with Google, you agree to the VOE Academy User Agreement, Privacy Policy, and Cookie Policy."
+        android:textAlignment="center"
+        android:textSize="11dp" />
+
+    <Button
+        android:id="@+id/google_login_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/custom_login_btn"
+
+        android:drawableLeft="@drawable/google_login_btn"
+        android:gravity="center"
+android:fontFamily="@font/roboto_regular"
+
+        android:paddingHorizontal="30dp"
+        android:text="Continue with Google"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:backgroundTint="#3f7ee8"
+
+
+        />
+
+
+</RelativeLayout>
